@@ -1,0 +1,29 @@
+final List<Map<String, dynamic>> SelectChText = [
+{
+'chapter':'Genesis',
+},
+  {
+    'chapter':'Exodus',
+  },
+  {
+    'chapter':'Leviticus',
+  },
+  {
+    'chapter':'Numbers',
+  },
+  {
+    'chapter':'Deuteronomy',
+  },
+  {
+    'chapter':'Joshua',
+  },
+  {
+    'chapter':'Judges',
+  },
+  {
+    'chapter':'Joshua',
+  },
+  {
+    'chapter':'Judges',
+  },
+];
